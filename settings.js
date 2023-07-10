@@ -10,15 +10,15 @@ global.BOT_PRIVET = false // if you want use bot privet
 global.AUTO_CHATGPT = false // if you want auto ai bot mod
 global.READ_MESSAGE = false // if you want read message from bot
 global.ONLY_INBOX = false // Only inbox mod ( only pm ) use
-global.ONLY_GROUPS = false // Only Groups Use
+global.ONLY_GROUPS = true // Only Groups Use
 
 
 /*
 🤖 𝗕𝗢𝗧 𝗜𝗡𝗙𝗢 𝗦𝗘𝗧𝗧𝗜𝗡𝗚𝗦
 */
-global.OWNER_NAME = 'Dark Maker Ofc' // Owner Name
-global.OWNER_NUMBER = ['94715166712'] //Owner Number
-global.BOT_ADMINS = ['94715166712','94715166712'] //Bot admins numbers
+global.OWNER_NAME = 'Udith Vimalsha' // Owner Name
+global.OWNER_NUMBER = ['94704991583'] //Owner Number
+global.BOT_ADMINS = ['94704991583','94704991583'] //Bot admins numbers
 global.BLOCK_CHAT = [] // If you want Block Bot From Chats Use .jid Command and put Jids
 
 
@@ -27,8 +27,8 @@ global.BLOCK_CHAT = [] // If you want Block Bot From Chats Use .jid Command and 
 📌⭕ 𝗬𝗢𝗨 𝗠𝗨𝗦𝗧 𝗣𝗥𝗢𝗩𝗜𝗗𝗘 𝗕𝗘𝗙𝗢𝗥𝗘 𝗗𝗘𝗣𝗟𝗢𝗬 𝗕𝗢𝗧 📌⭕
 > Ai Bot Password Get From Watching This Video 
 */
-global.AI_PASSWORD = ''
-global.SESSION_ID = ''
+global.AI_PASSWORD = 'king-nima-gpt-bot'
+global.SESSION_ID = 'elisa_md@;;;pN90RarA#vpDqXUxxXNYZ_mvQZIZtAW_nHUvY9tQMFuB_7w5feok'
 
 /*
 🎲 𝗢𝗧𝗛𝗘𝗥 𝗦𝗘𝗧𝗜𝗡𝗚𝗦
@@ -41,7 +41,10 @@ global.PORT = process.env.PORT || '5000' // Port No need Change.
 mess = {
 	owner: '*This Command is only For Owner.*'
 }
-
+react = {
+    ai_message : '🥷',
+    ai_image : '🗃️'
+}
 
 
 
